@@ -10,7 +10,7 @@
              "domain": "bond"
          },
          "Mysterius":{
-             "enabled": "0"    
+             "enabled": "1"    
          },
         "LordChannel":{
              "domain":"com"
