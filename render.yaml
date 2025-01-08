@@ -5,7 +5,6 @@ services:
     buildCommand: pip install -r requirements.txt  
     startCommand: python3 run.py  
     plan: free 
-    region: frankfurt
     envVars:
       # Sets a hardcoded value
       # (DO NOT hardcode secrets in your Blueprint file!)
